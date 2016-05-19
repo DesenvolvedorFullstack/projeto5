@@ -1,0 +1,14 @@
+{
+  "name": "projeto5",
+  "description": "Meu projeto com directive",
+  "main": "main.js",
+  "authors": [
+    "Seu nome"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DesenvolvedorFullstack/projeto3",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0"
+  }
+}
